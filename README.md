@@ -1,0 +1,1 @@
+This project involves building a webpage where anyone may post their opinions, ideas, thoughts, and feelings. With it, there is a MongoDB database. It is made with Bootstrap, JavaScript, Node.js, Express.js, Body-Parser, EJS, and Mongoose as well as HTML5, CSS3, and Node.js.
